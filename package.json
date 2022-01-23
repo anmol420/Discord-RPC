@@ -1,0 +1,22 @@
+{
+  "name": "discord-rpc",
+  "version": "1.0.0",
+  "description": "A Discord-RPC Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anmolrockz/Discord-RPC.git"
+  },
+  "author": "Anmol Anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anmolrockz/Discord-RPC/issues"
+  },
+  "homepage": "https://github.com/anmolrockz/Discord-RPC#readme",
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  }
+}

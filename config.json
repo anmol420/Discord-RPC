@@ -1,0 +1,11 @@
+{
+    "ClientID": "Your Application's ID",
+    "LargeImage": "Your Application's Image Name", 
+    "LargeImageText": "Your Application's Name",
+    "Button1": "Name Of First Button",
+    "Button2": "Name Of Second Button",
+    "Link1": "Link Associated With Button 1",
+    "Link2": "Link Associated With Button 2",
+    "Details": "Your Application's Description",
+    "State": "Your Application's State"
+}
