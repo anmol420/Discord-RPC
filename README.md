@@ -49,7 +49,7 @@
 
 👤 anmol420.
 - GitHub: [anmol420](https://www.github.com/anmol240)
-- Discord: [<AnMoL>✓ᴰᵉᵛ#1017](https://www.discord.com/users/875986400649052191)
+- Discord: [Anmol](https://www.discord.com/users/875986400649052191)
 
 <h3>Contributing</h3>
 
