@@ -57,7 +57,7 @@
 
 <h3>Support</h3>
 
-You can show your support by giving a ⭐ or using the RPC!
+You can show your support by giving a ⭐ on using the RPC!
 
 <h3>License</h3>
 
